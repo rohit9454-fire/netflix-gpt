@@ -78,6 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
                                                                         npx tailwindcss init
 # Features
 - Before Login
+    -   Header
     -   SignIn Page Form
     -   SignUp Page Form 
 
