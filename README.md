@@ -96,3 +96,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - Movie Suggestion
 
 
+# GET DATA FROM TMDB
+- Go on TMDB SignUp & SignIn
+- Go On Edit Profile -> API -> Get API Key & Access Token.
+
+API KEY: 70dd7bf25178c1b0fc3838d5cec75f16
+
+API Read Access Token : eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MGRkN2JmMjUxNzhjMWIwZmMzODM4ZDVjZWM3NWYxNiIsInN1YiI6IjY1YjU0N2RiNGYzM2FkMDE3YTBiZDc1MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.hw3aZEIScQ1Sfu11TWXlF08uIkp5m76ncIKuHVx5ZHo
